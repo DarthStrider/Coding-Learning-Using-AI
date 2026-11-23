@@ -3,8 +3,8 @@ module shop
 go 1.25.0
 
 require (
-	github.com/rabbitmq/amqp091-go v1.16.0
-	go.mongodb.org/mongo-driver/v2 v2.10.0
+	github.com/rabbitmq/amqp091-go v1.17.0
+	go.mongodb.org/mongo-driver/v2 v2.10.1
 )
 
 require (
